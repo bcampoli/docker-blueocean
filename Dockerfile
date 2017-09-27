@@ -1,4 +1,4 @@
-FROM jenkinsci/blueocean:1.0.1
+FROM jenkinsci/blueocean:1.2.4-d969f91b7447
 
 USER root
 
